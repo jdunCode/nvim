@@ -1,3 +1,5 @@
+![](image.png)
+
 # My Neovim Configuration  
 
 A minimal yet powerful Neovim setup tailored for productivity.  
