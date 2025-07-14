@@ -6,3 +6,4 @@ vim.keymap.set('n', '<leader>o', ':Neotree float git_status<CR>')
 
 
 vim.keymap.set('n', '<leader>w', ':w<CR>')
+vim.keymap.set('i', 'jj', '<Esc>')
